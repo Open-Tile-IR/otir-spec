@@ -60,13 +60,6 @@ OTIR is built upon a few key pillars, defined formally in the [Specification](SP
 *   `rfc/`: Request for Comments documents for proposed changes.
 *   `examples/`: (Planned) Example OTIR snippets demonstrating common kernels (GEMM, LayerNorm, FlashAttention).
 
-## Community & Governance
-
-OTIR is an open project governed by the community. We welcome participation from hardware vendors, compiler engineers, and framework developers.
-
-*   **Discussion:** Please use GitHub Issues for specification discussions.
-*   **Chat:** [Link to Discord/Slack/Matrix if you have one]
-
 ## License
 
 This project is licensed under the **Apache License 2.0** with LLVM Exceptions. See [LICENSE](LICENSE) for details.
